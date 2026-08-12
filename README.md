@@ -48,14 +48,3 @@
 - 🛸 **OrbitOne** — space debris & orbit analytics, NASA Space Apps Challenge 2025 — **[OrbitOne](https://github.com/vrushabh-hirap/orbitone-nasa)**
 
 <br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vrushabh-hirap&show_icons=true&count_private=true&hide_border=true&border_radius=0&bg_color=0D0D0D&title_color=A78BFA&icon_color=FACC15&text_color=F5F5F0" />
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vrushabh-hirap&layout=compact&hide_border=true&border_radius=0&bg_color=0D0D0D&title_color=A78BFA&text_color=F5F5F0" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:1A0B2E,100:0A0A0A&height=80&section=footer" />
